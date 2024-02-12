@@ -1,4 +1,4 @@
-alert("Click and find the MESSAGE")
+alert("Click and find the MESSAGE hidden inside the Rainbow!!!")
 
 var bg = document.querySelector("body")
 var header = document.querySelector("h1")
